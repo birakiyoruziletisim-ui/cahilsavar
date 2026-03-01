@@ -2,7 +2,7 @@
 
 **Son Güncelleme:** 1 Mart 2026
 
-**PudingLabs** (bundan sonra "Geliştirici" olarak anılacaktır), **Cahil Savar** adlı mobil uygulamayı (bundan sonra "Uygulama" olarak anılacaktır) ücretsiz bir oyun olarak oluşturmuştur. Bu hizmet Geliştirici tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
+**LabsPuding** (bundan sonra "Geliştirici" olarak anılacaktır), **Cahil Savar** adlı mobil uygulamayı (bundan sonra "Uygulama" olarak anılacaktır) ücretsiz bir oyun olarak oluşturmuştur. Bu hizmet Geliştirici tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 
 Bu sayfa, uygulamamızı kullanmaya karar veren herkesi Kişisel Bilgilerin toplanması, kullanılması ve ifşa edilmesiyle ilgili politikalarımız hakkında bilgilendirmek için kullanılmaktadır.
 
